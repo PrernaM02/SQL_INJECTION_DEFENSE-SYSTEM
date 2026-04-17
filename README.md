@@ -8,10 +8,10 @@ This project focuses on detecting and preventing SQL Injection (SQLi) attacks us
 A hybrid security framework is proposed to enhance traditional web application defenses by combining detection + prevention mechanisms.
 
 🚀 Features :
-Detects SQL Injection attacks in real-time
-ML-based classification using TF-IDF + XGBoost
-High accuracy with optimized model performance
-Data preprocessing (cleaning, tokenization, normalization)
-Hybrid defense approach (detection + prevention)
+Detects SQL Injection attacks in real-time,
+ML-based classification using TF-IDF + XGBoost,
+High accuracy with optimized model performance,
+Data preprocessing (cleaning, tokenization, normalization),
+Hybrid defense approach (detection + prevention),
 Evaluation using precision, recall, F1-score
 
